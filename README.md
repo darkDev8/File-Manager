@@ -1,4 +1,4 @@
-# BlackFile
+# File Manager
 BlackFile is a file manager.
 
 <img src="/shots/blackFile.png" alt="BlackFile">
